@@ -1,0 +1,5 @@
+"age,attempt_idx,motion_score,attention_score,therapist_note_len,parent_note_len,has_sensory_support,prev_success_rate"
+"8,11,0.62,0.64,150,98,1,0.61"
+"7,12,0.39,0.42,120,76,0,0.50"
+"10,4,0.71,0.70,165,110,1,0.68"
+"6,7,0.45,0.48,118,80,0,0.52"

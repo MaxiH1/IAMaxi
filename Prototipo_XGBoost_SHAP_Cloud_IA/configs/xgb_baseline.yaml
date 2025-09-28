@@ -1,0 +1,16 @@
+dataset:
+  path: data/processed/mmasd_features.csv
+  target: y
+
+model:
+  params:
+    max_depth: 4
+    eta: 0.1
+    n_estimators: 300
+    subsample: 0.9
+    colsample_bytree: 0.9
+  random_state: 42
+
+output:
+  model_path: artifacts/model.pkl
+  metrics_path: artifacts/metrics.csv

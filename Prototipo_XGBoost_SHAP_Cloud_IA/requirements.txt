@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+pyyaml
+joblib
+matplotlib
+streamlit
+qdrant-client
+huggingface-hub
+requests
+python-dotenv
